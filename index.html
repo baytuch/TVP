@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      TVP
+    </title>
+    <script type="text/javascript" src="$MANAGER_WIDGET/Common/API/Widget.js"></script>
+    <script type="text/javascript" src="$MANAGER_WIDGET/Common/API/TVKeyValue.js"></script>
+    <script type="text/javascript" src="program.js"></script>
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+  </head>
+  <body onload="Main.onLoad();">
+  
+    <!-- Panel section -->
+    <div class="list" id="list">
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+      <div>none</div>
+    </div>
+    
+    <!-- Player section -->
+    <div class="player" id="player_box">
+      <video width="484" height="274" controls>
+      </video>
+    </div>
+
+    <a href="javascript:void(0);" id="anchor" onkeydown="Main.keyDown();"></a>
+  </body>
+</html>

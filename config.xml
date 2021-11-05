@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <widget>
+        <ThumbIcon>icon/TVP_106.png</ThumbIcon>
+        <BigThumbIcon>icon/TVP_115.png</BigThumbIcon>
+        <ListIcon>icon/TVP_85.png</ListIcon>
+        <BigListIcon>icon/TVP_95.png</BigListIcon>
+        <previewjs>TVP</previewjs>
+        <cpname>MySERVER project</cpname>
+        <cpauthjs></cpauthjs>
+        <ver>0.930</ver>
+        <mgrver>1.000</mgrver>
+        <fullwidget>n</fullwidget>
+        <srcctl>n</srcctl>
+        <ticker>n</ticker>
+        <childlock>n</childlock>
+        <audiomute>n</audiomute>
+        <videomute>n</videomute>
+        <dcont>y</dcont>
+        <network>y</network>
+        <hubsite>n</hubsite>
+        <widgetname>TVP</widgetname>
+        <description>TVP</description>
+        <width>960</width>
+        <height>540</height>
+        <author>
+            <name>Samsung</name>
+            <email>sashko@my-server.km.ua</email>
+            <link>http://www.it-hobby.km.ua/</link>
+            <organization>MySERVER project</organization>
+         </author>
+    </widget>
